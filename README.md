@@ -134,6 +134,7 @@ Docker Hub = 도커의 중앙화된 리포지터리 (다른 이미지들이 있�
 
 -----------------------
 
+### Java 공부
 
 컴파일 = java로 쓴 파일을 .class로 변환하는 과정 (byte code) [.java -> .class]
 
@@ -143,5 +144,11 @@ Docker Hub = 도커의 중앙화된 리포지터리 (다른 이미지들이 있�
 |과정|한번에 코드를 기계어로 변환하고 실행|프로그램을 실행하는 동안 한줄씩 기계어로 변환하고 실행|
 |장점|실행 속도가 빠르다|디버깅과 개발이 쉽다|
 |단점|컴파일 시간이 소요된다|실행속도가 느리다|
+|Example|C,C++,Java|Python,Ruby, Javascript|
 
+**String vs String Buffer vs String builder**
+
+- String = immutable 객체, 
+- String Buffer = mutable 객체,
+- String builder = mutable 객체, 
 
