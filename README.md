@@ -154,8 +154,10 @@ Docker Hub = 도커의 중앙화된 리포지터리 (다른 이미지들이 있�
 - String Buffer = mutable 객체,
 - String builder = mutable 객체, 
 
-
-
+**parameter vs argument**
+- parameter = 매개변수 -> 함수를 classify할때 사용되는 값이다 (인풋)
+- argument = 인수 -> 함수를 호출시 전달되는 값이다 (인풋)
+  
 
 ## Git
 
