@@ -82,7 +82,7 @@ Docker Hub = 도커의 중앙화된 리포지터리 (다른 이미지들이 있�
   - postman을 이용한 api test (모듈간의 데이터 교환 테스트)
     
 - ***CD***: 변경된 코드를 자동 배포. -> 개발, 테스트, 배포 과정이 통합되며 효율성 ↑ 신속성 ↑
-  ex) 1. Github Actions를 이용한 CI/CD 파이프라인 구축 (코드사항이 자동적으로 배포)
+  - ex) 1. Github Actions를 이용한 CI/CD 파이프라인 구축 (코드사항이 자동적으로 배포)
   - 백엔드와 프로트엔드를 docker image로 빌드하고 github container registry에 자동으로 푸시
   - main branch에 커밋된 코드가 새로운 docker image를 생성해 자동으로 업데이트.
     
