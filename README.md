@@ -3,8 +3,8 @@
 1. 클라우드 -aws
 2. docker + react native + 플랫폼/ 서비스
 3. 데이터 분석 및 ml   
-5. django  x 
-6. os, db, 네트워크, 보안 x 
+5. spring framework
+6. db, 네트워크, 보안 x 
 7. node js 등 다양한 framework을 이용한 백엔드 개발
 8. 서비스를 기획부터 배포까지 전과정에 참여
 9. rest api
