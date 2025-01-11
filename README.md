@@ -228,3 +228,7 @@ Docker Hub = 도커의 중앙화된 리포지터리 (다른 이미지들이 있�
 
 ### Deployment
 - 배포 = 애플리케이션을 서버에 업로드하여 사용자가 접근할 수 있도록 하는 과정.
+
+### Vercel vs Netlify
+- Vercel은 Next.js에 최적화되어 있음.
+- Netlify는 보다 다양한 프레임워크 사용가능.
